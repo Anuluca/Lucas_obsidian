@@ -1,0 +1,11 @@
+{
+  "theme": "system",
+  "cssTheme": "Things",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSizeAction": false,
+  "baseFontSize": 14,
+  "showViewHeader": true,
+  "showRibbon": false,
+  "nativeMenus": true,
+  "translucency": false
+}

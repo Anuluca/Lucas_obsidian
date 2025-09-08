@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
+}
