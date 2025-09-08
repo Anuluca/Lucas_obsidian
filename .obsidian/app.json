@@ -8,5 +8,11 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "assets",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "README"
+  ],
+  "focusNewTab": false,
+  "livePreview": true,
+  "tabSize": 4
 }
