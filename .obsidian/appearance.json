@@ -5,7 +5,7 @@
   "baseFontSizeAction": false,
   "baseFontSize": 14,
   "showViewHeader": true,
-  "showRibbon": false,
+  "showRibbon": true,
   "nativeMenus": true,
   "translucency": false
 }
